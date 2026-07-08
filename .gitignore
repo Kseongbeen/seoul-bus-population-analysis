@@ -1,0 +1,16 @@
+# Caches
+.ipynb_checkpoints/
+__pycache__/
+
+# IDEs
+.vscode/
+.idea/
+
+# Large Datasets (Over 100MB - CRITICAL to ignore for GitHub limits)
+seoul_moving_month_4.csv
+1.1 BUS_STATION_BOARDING_MONTH_202204.csv
+df_merged_final.csv
+
+# System files
+.DS_Store
+Thumbs.db
